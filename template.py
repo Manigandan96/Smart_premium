@@ -23,7 +23,7 @@ list_of_files = [
     'schema.yaml',
     'main.py',
     'Dockerfile',
-    'setup.py'
+    'setup.py',
     'templates/index.html'
 ]
 
